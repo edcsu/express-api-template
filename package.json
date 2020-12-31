@@ -1,0 +1,16 @@
+{
+  "name": "express-api-template",
+  "version": "0.1.0",
+  "description": "Node Express API template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "ExpressJS",
+    "API"
+  ],
+  "author": "Ssewannonda Keith Edwin",
+  "license": "ISC"
+}
